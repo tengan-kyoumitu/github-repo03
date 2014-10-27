@@ -5,3 +5,4 @@ step04/local
 step05/local
 step05/github
 step06/local
+step06/github
